@@ -1,5 +1,5 @@
 {
-  "name": "grunt-connect-proxy3",
+  "name": "grunt-connect-proxy",
   "version": "4.0.0",
   "description": "Provides a http proxy as middleware for grunt connect.",
   "keywords": [
